@@ -1,0 +1,37 @@
+li{
+    float: left;
+    text-align: center;
+    padding: auto;
+}
+
+body > header > nav > ul > li {
+	display: block;
+	width: 15%;
+	float: right;
+	font-size: 0.8em;
+	color: white; 
+	height: 100%;
+	text-align: center;
+}
+
+a:link{
+    color: blue;
+    line-height: 2em;
+}
+
+a:hover{
+    color: #60FBDC;
+}
+
+p{
+    color: #60FBDC;
+}
+
+a:link{
+    color: blue;
+    line-height: 2em;
+}
+
+/*I will do the float method for the images on the other pages*/
+
+/*I will make the textbox blue*/

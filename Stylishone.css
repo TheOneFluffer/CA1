@@ -4,33 +4,14 @@ li{
     padding: auto;
 }
 
-body > header > nav > ul{
-	display: block;
-	font-size: 1.0em;
-	color: white; 
-	height: 100%;
-}
-
-a:link{
-    color: blue;
-    line-height: 2em;
-}
-
-a:hover{
-    color: #60FBDC;
-}
-
-p{
-    color: #ff59c7;
-}
-
-a:link{
-    color: #ffa6fc;
-    line-height: 2em;
-}
-
-h3{
+h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff59c7;
+    font-size: small;
+}
+
+h5{
+    
 }
 
 footer{

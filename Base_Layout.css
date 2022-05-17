@@ -1,0 +1,29 @@
+@charset "utf-8";
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff59c7;
+}
+
+h3{
+    color: #ff59c7;
+    font-size: small;
+}
+
+body{
+    background-color: #000000;
+    display: block;
+    width: 100%;
+    height: 30px;
+}
+
+footer{
+    color: #000000;
+    text-align: center;
+    font-size: 0.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*I will do the float method for the images on the other pages*/
+
+/*I will make the textbox blue*/

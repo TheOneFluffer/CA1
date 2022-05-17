@@ -4,14 +4,11 @@ li{
     padding: auto;
 }
 
-body > header > nav > ul > li {
+body > header > nav > ul{
 	display: block;
-	width: 15%;
-	float: right;
-	font-size: 0.8em;
+	font-size: 1.0em;
 	color: white; 
 	height: 100%;
-	text-align: center;
 }
 
 a:link{
@@ -24,12 +21,20 @@ a:hover{
 }
 
 p{
-    color: #60FBDC;
+    color: #ff59c7;
 }
 
 a:link{
-    color: blue;
+    color: #ffa6fc;
     line-height: 2em;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    background-color: #ff59c7;
 }
 
 /*I will do the float method for the images on the other pages*/

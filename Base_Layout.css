@@ -5,7 +5,8 @@ h1{
     color: #ff59c7;
 }
 
-body > header > nav > ul{
+.link{
+    /*background-color: #ff59c7;*/
 	display: block;
 	font-size: 1.0em;
 	height: 100%;
@@ -22,6 +23,7 @@ ul{
 a:link{
     color: #ff59c7;
     line-height: 2em;
+    text-align: center;
 }
 
 a:hover{
@@ -59,5 +61,3 @@ footer{
 }
 
 /*I will do the float method for the images on the other pages*/
-
-/*I will make the textbox blue*/

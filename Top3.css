@@ -4,7 +4,7 @@ li{
     padding: auto;
 }
 
-h5{
+h5 > ul{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ff59c7;
     font-size: small;

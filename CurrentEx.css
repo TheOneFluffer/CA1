@@ -1,18 +1,20 @@
-li{
-    float: left;
-    text-align: center;
-    padding: auto;
-}
+@charset "utf-8";
 
 .Current_E {
     display: grid;
     gap: 15px;
     background-color: #000000;
-    padding: 5px;
 }
   
 .Current_E > div {
     text-align: left;
+    border: 1px solid #ff59c7;
+    padding: 2px;
+}
+
+div{
+    text-align: left;
+    padding: 2px;
 }
 
 h5{

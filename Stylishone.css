@@ -1,8 +1,4 @@
-/*li{
-    float: left;
-    text-align: center;
-    padding: auto;
-}*/
+@charset "utf-8";
 
 h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -10,6 +6,22 @@ h5{
     font-size: small;
 }
 
+.CPS {
+    display: grid;
+    gap: 15px;
+    background-color: #000000;
+}
+  
+.CPS > div {
+    text-align: left;
+    padding: 2px;
+    border: 1px solid #ff59c7;
+}
+
+div{
+    text-align: left;
+    padding: 2px;
+}
 /*I will do the float method for the images on the other pages*/
 
 /*I will make the textbox blue*/

@@ -1,17 +1,13 @@
-li{
+/*li{
     float: left;
     text-align: center;
     padding: auto;
-}
+}*/
 
 h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ff59c7;
     font-size: small;
-}
-
-footer{
-    background-color: #ff59c7;
 }
 
 /*I will do the float method for the images on the other pages*/

@@ -4,16 +4,23 @@ li{
     padding: auto;
 }
 
-h5 > ul{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.Top3-container{
     color: #ff59c7;
-    font-size: small;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-footer{
-    background-color: #ff59c7;
+.Top3-container{
+    display: grid;
+    gap: 15px;
+    background-color: #000000;
+    padding: 5px;
 }
-
+  
+.Current_E > div {
+    border: 1px solid #ff59c7;
+    text-align: left;
+}
 /*I will do the float method for the images on the other pages*/
 
 /*I will make the textbox blue*/

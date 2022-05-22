@@ -5,4 +5,26 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
     border: 1px solid #ff59c7;
+    padding-left: 1cm;
+    box-sizing: border-box;
+}
+
+textarea, 
+pre {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+}
+
+.expandingArea
+{
+    position: relative;
+    background: #000000;
+}
+
+.Center
+{
+    text-align: center;
+    padding-top: 10px;
 }

@@ -27,6 +27,7 @@
             <option value="alumni">Alumni</option>
         </select>
         <br>
+        <br>
         <label for="o-range">Satisfaction (between 1 to 5):</label>
         <input type="range" id="o-range" name="o-range" min="1" max="5" value="3">
         <br>
@@ -46,15 +47,20 @@
         <br>    
         <br>
         <label for="email">Email address:</label>
-        <input type="email" id="email" name="email address" placeholder="example@mail.com">
+        <input type="email" id="email" name="email address" placeholder="example@mail.com" style="width: 500px;">
         <br>
         <br>
         <label for="text">Type in your feedback here:</label>
         <br>
-        <input type="text" id="feedback" name="feedback" placeholder="Enter text here..." style="max-width: 1080px;">
+        <div class="expandingArea" style="width: 1000px; height: 200px;">
+            <pre><span></span><br></pre>
+            <textarea style="width: 1000px; height: 200px;" placeholder="Please type in your feedback here."></textarea>
+        </div>
         <br>
         <br>
-        <button onclick="Submission()">Submit</button>
+        <div class="Center">
+            <button onclick="Submission()" style="width: 250px;">Submit</button>
+        </div>
     </form>
 </body>
 
